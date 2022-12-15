@@ -17,6 +17,10 @@ alert(total)
 
 // alert(total)
 
+
+
+// Found at 1:27 of class 22
+
 // Create a function that takes in an array of numbers, 
 // return a new array of numbers that is every original number squared
 
